@@ -1,6 +1,7 @@
 {
   "posts": [
     {
+      "id":0,
       "title": "hello",
       "description": "text"
     }
